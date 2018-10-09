@@ -1,0 +1,42 @@
+{
+    "preload": {
+      "files": [
+        {
+          "type": "bitmapFont",
+          "key": "font",
+          "textureURL": "./src/assets/font/font.png",
+          "fontDataURL": "./src/assets/font/font.fnt"
+        },
+        {
+          "type": "image",
+          "key": "background",
+          "url": "./src/assets/golfcamp.jpg"
+        },
+        {
+            "type": "spritesheet",
+            "key": "oldman",
+            "url": "./src/assets/oldman.png",
+            "frameConfig": {
+              "frameWidth": 32,
+              "frameHeight": 48
+            }
+        },
+        {
+          "type": "image",
+          "key": "cloud",
+          "url": "./src/assets/cloud.png"
+        },
+        {
+          "type": "image",
+          "key": "dollar",
+          "url": "./src/assets/dollar.png"
+        },
+        {
+          "type": "image",
+          "key": "cup",
+          "url": "./src/assets/cup.png"
+        }
+      ]
+    }
+  }
+  
