@@ -1,5 +1,6 @@
 # 🎮 Phaser3 + Typescript My First Game
 
+"This little game was developed to learn about phaser3, mainly Typescript"
 
 [Play here](http://leoddias.github.io/phaser3-first-game)
 
